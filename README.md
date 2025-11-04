@@ -1,6 +1,10 @@
 # Página de Contato
 
 Uma página simples de contato em HTML/CSS para uso local ou hospedagem em servidor Apache (XAMPP). Este pequeno projeto contém um formulário estático que envia para uma página de confirmação (`enviado.html`) e estilos básicos em `css/styles.css`.
+<img width="1502" height="687" alt="image" src="https://github.com/user-attachments/assets/abeab438-d92f-4f5b-b19f-eb7724e74d41" />
+<img width="1315" height="774" alt="image" src="https://github.com/user-attachments/assets/e49ee1fa-15ad-4296-9b58-193fc02c2526" />
+
+
 
 ## Visão geral
 
